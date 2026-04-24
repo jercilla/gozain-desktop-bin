@@ -1,8 +1,8 @@
-version: 0.1.3
+version: 0.1.4
 files:
-  - url: Gozain Desktop Setup 0.1.3.exe
-    sha512: ZhMh3if9ll4n6fiI0XiUbJWQcONPqdA8EWkDKHDl/trE1FGXErV8D2Lp1iFH4RKCM5dsqndrDcgrBmP0nfuDsg==
-    size: 101814112
-path: Gozain Desktop Setup 0.1.3.exe
-sha512: ZhMh3if9ll4n6fiI0XiUbJWQcONPqdA8EWkDKHDl/trE1FGXErV8D2Lp1iFH4RKCM5dsqndrDcgrBmP0nfuDsg==
-releaseDate: '2026-04-24T11:19:10.840Z'
+  - url: Gozain Desktop Setup 0.1.4.exe
+    sha512: pImb4sfr7kfg72vBIf8n8SxxqZaB063f2HaOOjnNh4KJ69xS1Cb8yyBlG72BK9hBZFin5DgEzTiMdB7E0Mpa5A==
+    size: 101814740
+path: Gozain Desktop Setup 0.1.4.exe
+sha512: pImb4sfr7kfg72vBIf8n8SxxqZaB063f2HaOOjnNh4KJ69xS1Cb8yyBlG72BK9hBZFin5DgEzTiMdB7E0Mpa5A==
+releaseDate: '2026-04-24T11:31:14.258Z'
